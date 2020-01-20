@@ -17,7 +17,6 @@
 ## 调用
 
 - 使用html代码直接引用。
-
 ```html
   <script src="https://book.fly6022.fun/note/haoju.js"></script>
 ```
@@ -30,7 +29,9 @@
 ```javascript
    txt[#好句编号#]="“#好句内容（不包括作者/作品名称）#”<br>—— #作者# #作品名（注意加书名号）#";
 ```
-**标准编辑格式：**
+
+
+- **标准编辑格式：**
 ```javascript
    txt[0]="“怕什么？一切要来的都得来，不必怕。”<br> —— 沈从文 《边城》";
 ```
@@ -47,3 +48,7 @@
 ## 开源许可
 
 MIT
+
+## 其它
+
+[查看原文](https://github.com/Book-Excerpts/haoju/blob/master/README.md)
