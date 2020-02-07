@@ -53,12 +53,3 @@ var len=397;//书摘数量
 ## 其它
 
 [查看原文](https://github.com/Book-Excerpts/haoju/blob/master/README.md)
-
-<<<<<<< HEAD
-=======
-MIT
-
-## 其它
-
-[查看原文](https://github.com/Book-Excerpts/haoju/blob/master/README.md)
->>>>>>> c9e9defd566319e6b806b861150283c0c3624f2c
