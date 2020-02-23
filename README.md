@@ -7,7 +7,7 @@
 - 随时更新
 - 可随处调用
 - 使用JavaScript开发
-- 体积小（仅71KB）
+- 体积小（仅74KB）
 - 开放源代码
 
 [插件源代码](https://book.fly6022.fun/note/haoju.js)
@@ -19,7 +19,14 @@
 - 使用html代码直接引用。
 
 ```html
+  <!-- html -->
+  <div id="haoju" class="shuzhai"></div>
+                  
+  <!-- Javascript -->
   <script src="https://book.fly6022.fun/note/haoju.js"></script>
+                  
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="https://book.fly6022.fun/note/css/shuzhai.css">
 ```
 
 ## 使用者
@@ -33,14 +40,14 @@
 2. 确保书摘好句段落及文字格式与原插件一致。<br>**段落及文字格式：（注意：下面代码中，破折号与 #作者# 及 #作者# 与 #作品名称# 之间有空格！）**
 
 ```javascript
-   txt[#好句编号#]="“#好句内容（不包括作者/作品名称）#”<br>—— #作者# #作品名（注意加书名号）#";
+   haoju[#好句编号#]="“#好句内容（不包括作者/作品名称）#”<br>—— #作者# #作品名（注意加书名号）#";
 ```
 
 
 - **标准编辑格式：**
 
 ```javascript
-   txt[0]="“怕什么？一切要来的都得来，不必怕。”<br> —— 沈从文 《边城》";
+   haoju[0]="“怕什么？一切要来的都得来，不必怕。”<br> —— 沈从文 《边城》";
 ```
 
 3. 编辑完毕后记得修改“最后编辑者”、“最后更新时间”以及“书摘数量”参数！（大概在插件源代码第2、3行）
