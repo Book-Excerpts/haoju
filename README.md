@@ -1,5 +1,7 @@
 # 『书摘。』好句
 
+<center><img src="https://book.fly6022.fun/img/tags/language-javascript-orange.svg"/> <img src="https://book.fly6022.fun/img/tags/book-excerpts-v1.0.6-brightgreen.svg"/> <img src="https://book.fly6022.fun/img/tags/build-passing-success.svg"/> <img src="https://book.fly6022.fun/img/tags/licence-MIT-brightgreen.svg"/></center>
+
 『书摘。』是（Github：fly6022）于2019年8月29日基于JavaScript开发的书籍好句摘录插件，收录了古今中外名著/影视/动漫中的好句。
 
 ## 特性
