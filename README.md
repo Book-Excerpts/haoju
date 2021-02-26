@@ -5,7 +5,7 @@
 > 『书摘。』是一个基于JavaScript开发的书籍好句摘录插件，收录了书籍/影视/动漫中的好句。
 
 ![](https://book.fly6022.fun/img/tags/language-javascript-orange.svg)
-![](https://book.fly6022.fun/img/tags/book-excerpts-v1.0.6-brightgreen.svg)
+![](https://book.fly6022.fun/img/tags/book-excerpts-brightgreen.svg)
 ![](https://book.fly6022.fun/img/tags/build-passing-success.svg)
 [![](https://book.fly6022.fun/img/tags/licence-MIT-brightgreen.svg)](https://github.com/Book-Excerpts/haoju/blob/master/LICENSE)
 
@@ -13,8 +13,8 @@
 
 - 可移植性强
 - JavaScript开发
-- 体积小（控制文件仅603字节）
-- 基于 MIT 协议开放源代码
+- 轻量化
+- 基于 MIT 协议开源
 
 [发行版插件源代码](https://book.fly6022.fun/note/haoju.js)
 [官方网站](https://book.fly6022.fun/)
@@ -43,10 +43,9 @@
 
 **1.下载。** 将『书摘。』好句插件源码 ```clone``` 下来。
 
-**2.编辑。** 之后打开任意代码编辑器（例如：VSCode）进行编辑。**请注意：```haoju.js```在2.0.0版本作为了控制文件，存储文件在```/src/haoju```文件夹中。当Json文件大小≥100KB时，建议您另建新Json文件。**
+**2.编辑。** 之后打开任意代码编辑器（例如：VSCode）进行编辑。**请注意：```haoju.js```在2.0.0版本及之后的版本作为了控制文件，存储文件在```/src/haoju```文件夹中。当Json文件大小≥100KB时，建议您另建新Json文件。**
 
 **3.格式。** 确保书摘好句段落及文字格式与原插件一致。
-   **段落及文字格式：（注意：下面代码中，破折号与 #作者# 及 #作者# 与 #作品名称# 之间有空格！）**
 
 格式遵循 JSON 语法。
 
@@ -154,7 +153,7 @@ request.open("GET", url);
 ## 原作者
 
 [官方网站](https://book.fly6022.fun/)
-[开发者博客](https://fly6022.fun/)
+[原作者博客](https://fly6022.fun/)
 
 ## 其它
 
