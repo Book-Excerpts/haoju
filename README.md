@@ -1,6 +1,6 @@
 <h1 align="center">『书摘。』好句</h1>
 
-<center><img src="https://book.fly6022.fun/img/logo.png"></center>
+<center><img src="https://book.fly6022.fun/img/logo.png" width="30%"></center>
 
 > 『书摘。』是一个基于JavaScript开发的书籍好句摘录插件，收录了书籍/影视/动漫中的好句。
 
